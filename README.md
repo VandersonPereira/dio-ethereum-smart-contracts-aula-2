@@ -1,2 +1,2 @@
-# dio-ethereum-smart-contracts-aula-2
+# Desenvolva um token no padrão ERC-20 com Ethereum
 Este projeto tem como propósito o desenvolvimento de um token baseado na blockchain da criptomoeda Ethereum, para mostrar as principais funcionalidades de token utilizado no mercado de criptomoedas. Vamos explorar seus padrões e funcionalidades, complementando com o desenvolvimento prático de um token no padrão ERC20, o padrão utilizado por tokens negociados nas principais corretoras de criptomoedas globais.
